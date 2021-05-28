@@ -30,7 +30,7 @@ const Homepage = () => {
             up and start reading some quality blogs.
           </p>
           <GoogleLogin
-            clientId="964770249046-b6uol1cjrs3b8mnus1eg1jc1vl5jessc.apps.googleusercontent.com"
+            clientId="964770249046-45lhoi1ur3lqn6qf3vg4qrflt763njff.apps.googleusercontent.com"
             render={(renderProps) => (
               <button
                 onClick={renderProps.onClick}
